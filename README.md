@@ -7,4 +7,5 @@
 	Day 5 - June 25, 2018, Monday - Finished Portfolio (Coding)
 	Day 6 - June 26, 2018, Tuesday - Start FCC CSS3; Javascript (Reading, Review with Coding Exercise)
 	Day 7 - June 27, 2018, Wednesday - Finished FCC Basic CSS3 Section; Javascript - Arrays (Reading, Review with Coding Exercise)
-        Day 8 - June 28, 2018, Thursday - FCC CSS3 - Applied Visual Design Section; Javascript - Strings (Reading, Review, Coding Exercise) 
+        Day 8 - June 28, 2018, Thursday - FCC CSS3 - Applied Visual Design Section; Javascript - Strings (Reading, Review, Coding Exercise)
+	Day 9 - June 29, 2018, Friday - JS - Arrays, Strings; FCC CSS3 - Applied Accessibility Section (Reading, Review, Coding Exercise) 
