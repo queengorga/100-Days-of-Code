@@ -14,3 +14,5 @@
 	Day 13 - July 3, 2018 - Tues - JS - Arrays, Functions; Finished FCC CSS Flexbox,Grid; Breather-clone; Event Invitation
 	Day 14 - July 04, 2018, Wednesday - Day 15 - July 05, 2018, Thursday - Github tutorial
 	Day 16 - July 06, 2018, Friday - Day 23 - July 13, 2018, Friday - Practical JS (Arrays, functions, variables, objects), CSS Grid,                                      Workspace website (Week 1), Wedding Invitation website(Week 1)
+	Day 24 - July 14, 2018 - Day 25 - July 15, 2018 -  The Principles of Beautiful Web Design; HTML-CSS Responsive Design (Reading)
+	Day 26 - July 16, 2018 - Wedding Invitation Website; CSS Grid Flexbox ; JS - Fundamentals 
