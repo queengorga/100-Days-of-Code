@@ -16,3 +16,4 @@
 	Day 16 - July 06, 2018, Friday - Day 23 - July 13, 2018, Friday - Practical JS (Arrays, functions, variables, objects), CSS Grid,                                      Workspace website (Week 1), Wedding Invitation website(Week 1)
 	Day 24 - July 14, 2018 - Day 25 - July 15, 2018 -  The Principles of Beautiful Web Design; HTML-CSS Responsive Design (Reading)
 	Day 26 - July 16, 2018 - Wedding Invitation Website; CSS Grid Flexbox ; JS - Fundamentals 
+	Day 27 - July 17, 2018 - Wedding Invitation Website; CSS Grid Flexbox 
