@@ -18,3 +18,4 @@
 	Day 26 - July 16, 2018, Mon - Wedding Invitation Website; CSS Grid Flexbox ; JS - Fundamentals (Coding & Reading) 
 	Day 27 - July 17, 2018, Tue - Wedding Invitation Website; CSS Grid Flexbox (Coding & Reading)
 	Day 28 - July 18, 2018, Wed - Finished Wedding Invitation Website; CSS Grid, Flexbox; UI Design (Coding & Reading)
+	Day 29 - July 19, 2018, Thurs - CSS Grid, Layout, SMACSS; UI/UX Design Basics; JS Practical/Fundamentals (Coding & Reading)
