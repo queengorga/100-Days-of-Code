@@ -9,7 +9,7 @@
 	Day 7 - June 27, 2018, Wed - Finished FCC Basic CSS3 Section; Javascript - Arrays (Reading, Review with Coding Exercise)
         Day 8 - June 28, 2018, Thurs - FCC CSS3 - Applied Visual Design Section; Javascript - Strings (Reading, Coding Exercise)
 	Day 9 - June 29, 2018, Fri - JS - Arrays, Strings; FCC CSS3 - Applied Accessibility Section (Reading, Review, Coding Exercise) 
-	Day 10-11 une 30 - July 1, 2018 - Sat-Sun - The Pragmatic Programmer by Andrew Hunt and David Thomas 
+	Day 10-11 - June 30 - July 1, 2018 - Sat-Sun - The Pragmatic Programmer by Andrew Hunt and David Thomas 
 	Day 12 - July 2, 2018 - Mon - JS - Arrays, Functions; CSS Flexbox, Grid
 	Day 13 - July 3, 2018 - Tues - JS - Arrays, Functions; Finished FCC CSS Flexbox,Grid; Breather-clone; Event Invitation
 	Day 14 - July 04, 2018, Wed - Day 15 - July 05, 2018, Thurs - Github tutorial
@@ -19,3 +19,5 @@
 	Day 27 - July 17, 2018, Tue - Wedding Invitation Website; CSS Grid Flexbox (Coding & Reading)
 	Day 28 - July 18, 2018, Wed - Finished Wedding Invitation Website; CSS Grid, Flexbox; UI Design (Coding & Reading)
 	Day 29 - July 19, 2018, Thurs - CSS Grid, Layout, SMACSS; UI/UX Design Basics; JS Practical/Fundamentals (Coding & Reading)
+	Day 30 - July 20, 2018, Fri - CSS Grid, Layout; JS Practical/Fundamentals (Coding & Reading)
+	Day 31-32 - July 21-22, 2018, Sat-Sun - The Principles of Beautiful Web Design (Reading)
