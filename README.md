@@ -22,3 +22,5 @@
 	Day 30 - July 20, 2018, Fri - CSS Grid, Layout; JS Practical/Fundamentals (Coding & Reading)
 	Day 31-32 - July 21-22, 2018, Sat-Sun - The Principles of Beautiful Web Design (Reading)
 	Day 33-37 - July 23-27, 2018, Mon-Fri - JS-Functions, Objects, Variables and Flow Control, Datatypes; CSS - Grid fundamentals, 	grid implicit vs explicit, Finished FCC's Chapters: Applied accessibility; UI/UX Fundamentals; Python - Setup, Strings, Variables and Integers (Reading, Review with Coding Exercise)
+	Day 38-39 - July 28-29, 2018 - Fri-Sat - The Principles of Beautiful Web Design (Reading)
+	Day 40 - 44 July 30-August 03, 2018 - Mon-Fri - CSS-FCC Responsive Web Design Principles; JS-Loops, Booleans, Comparison Operators, Function Declaration and Expressions, Arrays; Wedding Invitation Site(added a page, form validation-JS, modified pages) 
