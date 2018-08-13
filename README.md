@@ -24,3 +24,6 @@
 	Day 33-37 - July 23-27, 2018, Mon-Fri - JS-Functions, Objects, Variables and Flow Control, Datatypes; CSS - Grid fundamentals, 	grid implicit vs explicit, Finished FCC's Chapters: Applied accessibility; UI/UX Fundamentals; Python - Setup, Strings, Variables and Integers (Reading, Review with Coding Exercise)
 	Day 38-39 - July 28-29, 2018 - Fri-Sat - The Principles of Beautiful Web Design (Reading)
 	Day 40 - 44 July 30-August 03, 2018 - Mon-Fri - CSS-FCC Responsive Web Design Principles; JS-Loops, Booleans, Comparison Operators, Function Declaration and Expressions, Arrays; Wedding Invitation Site(added a page, form validation-JS, modified pages) 
+	Day 45 - 46 -  August 4-5, 2018 - Sun-Mon - The Principles of Beautiful Web Design (Reading)
+	Day 47 - 51 - August 9-10, 2018 - Monday-Friday - JS - Functions, Loops, Boolean, Logical Operations; Started with FCC JS Course - Basic JS; Almost finished with FCC Portfolio Project(additional links to projects, resume download and edit info on about me section)
+	Day 52 - 53 - August 11-12, 2018 - Saturday-Sunday - The Pragmatic Programmer (Reading)
