@@ -27,3 +27,6 @@
 	Day 45 - 46 -  August 4-5, 2018 - Sun-Mon - The Principles of Beautiful Web Design (Reading)
 	Day 47 - 51 - August 9-10, 2018 - Monday-Friday - JS - Functions, Loops, Boolean, Logical Operations; Started with FCC JS Course - Basic JS; Almost finished with FCC Portfolio Project(additional links to projects, resume download and edit info on about me section)
 	Day 52 - 53 - August 11-12, 2018 - Saturday-Sunday - The Pragmatic Programmer (Reading)
+	Day 54 - 58 - August 13-17, 2018 - Monday-Friday - JS-Variable Scope, Functions(arguments, scope, template strings, grade calculator), FCC JS Basics; UI/UX - Guide to Interaction Design, Design basics, Typography; FCC Tribute Page Responsive Web Design Project (Coding, Coding Exercise, Reading)
+	Day 59 - 60 - August 18-19, 2018 - Sat-Sun - The Principles of Beautiful Web Design (Reading)
+	
