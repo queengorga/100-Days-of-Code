@@ -29,4 +29,5 @@
 	Day 52 - 53 - August 11-12, 2018 - Saturday-Sunday - The Pragmatic Programmer (Reading)
 	Day 54 - 58 - August 13-17, 2018 - Monday-Friday - JS-Variable Scope, Functions(arguments, scope, template strings, grade calculator), FCC JS Basics; UI/UX - Guide to Interaction Design, Design basics, Typography; FCC Tribute Page Responsive Web Design Project (Coding, Coding Exercise, Reading)
 	Day 59 - 60 - August 18-19, 2018 - Sat-Sun - The Principles of Beautiful Web Design (Reading)
-	
+	Day 61 - 65 - August 20-24, 2018 - JS-Functions, Objects, Methods, Constant Variables, Basic(FCC); UI-Design101, UX-Fundamentals of User Experience Design, Overview of User Experience; Markdown Basics; Finished Tribute Page Project
+	Day 66 - 67 - August 24-26, 2018- The Principles of Beautiful Web Design (Reading)
