@@ -31,3 +31,5 @@
 	Day 59 - 60 - August 18-19, 2018 - Sat-Sun - The Principles of Beautiful Web Design (Reading)
 	Day 61 - 65 - August 20-24, 2018 - JS-Functions, Objects, Methods, Constant Variables, Basic(FCC); UI-Design101, UX-Fundamentals of User Experience Design, Overview of User Experience; Markdown Basics; Finished Tribute Page Project
 	Day 66 - 67 - August 24-26, 2018- The Principles of Beautiful Web Design (Reading)
+	Day 68 - 72 - August 27-31, 2018- JS-Objects(w/Functions, References),Methods(String, Number), Constant Variables, Variables with Var, Array(basics, with methods), For Loop, Looping over arrays; UI/UX-Typography, Kern, Shape type, Elements of UX(Designing interfaces, Information Design, Info Design Technique-open card sorting, Interaction design); Python(print statements, strings, handling errors, variables, arithmetic, updating variables, comments, numbers); Responsive Web Design(rem, em); FCC (Finished Survey form project, started Product landing page project)
+	Day 73 - 74 - September 1-2, 2018- The Principles of Beautiful Web Design (Reading)
