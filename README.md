@@ -1,4 +1,4 @@
-# 100-Days-of-Code
+# 100-Days-of-Code and Beyond
 
 	Day 1 - June 21, 2018, Thur - Finished FCC HTML5 section (Coding Exercise)
 	Day 2 - June 22, 2018, Fri - Portfolio (Coding)
@@ -40,3 +40,4 @@
 	Day 89 - 93 - September 17-21, 2018 - Mon-Fri - JS- Review of Arrays, Functions, DOM; UI/UX - Design Thinking; CSS-Essential Responsiveness CSS Techniques(Introduction to the benefits of Em values, Understanding and Using Rem for responsive projects); Review on responsive web design; Started travel website project.
 	Day 94 - 95 - September 22-23, 2018 - Sat-Sun- The Basics of User Experience Design (Reading)
 	Day 96 - 100 - September 24-28, 2018 - Mon-Fri- CS Crash Course-early computing, electronic computing; JS-Review of functions, customizing functions, function to display todo list, alerts, variable for strings, data types, DOM, DOM selectors; UX-5 stages in the design thinking process(empathize with your users, define the problem and interpret the results, ideate, prototype, test), Knowing your users(focus groups, surveys); UI-mixing typefaces; CSS responsive techniques(Em & Rem); Responsive web design(self-testing)
+	Day 101 - 102 - September 29-30, 2018  - Sat-Sun- The Basics of UX Design
